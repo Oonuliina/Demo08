@@ -27,8 +27,14 @@ hr {
     padding-right: 20%;
 }
 
-#viivat  {
+#viivat1{
         border-left: 1px solid grey;
         margin-left: .7vw;
         padding-left: .7vw;
-    }    
+    }
+
+#viivat2 {
+    border-left: 1px solid grey;
+    margin-left: .7vw;
+    padding-left: .7vw;
+}     
