@@ -27,6 +27,8 @@ hr {
     padding-right: 20%;
 }
 
-#kissa {
-    padding-left: none;
-}
+#viivat  {
+        border-left: 1px solid grey;
+        margin-left: .7vw;
+        padding-left: .7vw;
+    }    
